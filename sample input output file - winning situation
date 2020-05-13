@@ -1,0 +1,439 @@
+
+Input: 
+1
+Output: 
+Select the difficulty.
+ ============================================================================ 
+          | 1. Easy       | 2. Difficult
+ Health:  |    70 points  |    50 points 
+ Love:    |    50 points  |    50 points 
+ Mask:    |    2          |    0 
+ Money:   |    $100       |    $100
+ ============================================================================
+ Enter your choice (1/2) ~> ";
+ 
+ Input: 
+ 1
+ 
+ Output: 
+ You've chosen the easy level! Let's set up your information.
+ Press Enter to continue...
+ 
+ Input:
+ Enter
+ 
+ Output:
+ Player Information
+ What is your name? ~>
+ 
+ 
+ Input:
+ player1
+ 
+ Output:
+ How old are you? ~>
+ 
+ input:
+ 20
+ 
+ Output:
+ What is your gender?(M/F/U) ~>
+ 
+ Input: 
+ F
+ 
+ Output:
+ Miss, player1 confirm your information? (Y/N) ~>
+ 
+ Input: 
+ Y
+ 
+ Output:
+ Welcome, player1
+ It is now the time of the coronavirus pandemic
+ You are now in your house and you are in an ambiguous relationship with (lover.name)
+ Try your best to deepn your love relationship with (lover.name) but also survive from the pandemic!
+ Lover's Information
+============================================================================
+ Name:   (lover.name)
+ Age:    (lover.age)
+ Gender: (lover.gender)
+============================================================================
+Press Enter to continue...
+
+Intput: 
+Enter
+
+Output: 
+======================================================================================
+LOVE:       50
+HEALTH:     70
+MASK:       2
+MONEY($):   100
+WEEK:       0
+======================================================================================
+ 
+
+1. Buy mask
+2. Go to work
+3. Love event
+4. Pause Option
+
+Input:
+3
+
+Ouput:
+Your status
+=============================================================================                                     =========
+LOVE:     50      HEALTH:   70
+MASK:     2       MONEY($): 100
+WEEK:     0
+============================================================================= 
+(lover.name) calls you out for a date
+
+What will you do?
+1.'Lets go out!'
+2.'Nah let's stay at home'
+
+Enter your choice (1/2) ~>
+
+Input:
+1
+
+Output:
+Your status
+=============================================================================                                     =========
+LOVE:     60      HEALTH:   70
+MASK:     1       MONEY($): 100
+WEEK:     0
+=============================================================================                                     =========
+LOVE + 10
+MASK -1
+=============================================================================                                     =========
+
+On your way to meet your lover, you met a strange person coughing on street
+What will you do?
+1.Walk away from the perseon.
+2.I don't care
+Enter your choice (1/2) ~>
+
+Input: 
+1
+
+Output: 
+Your status
+======================================================================================
+LOVE:     60      HEALTH:   70
+MASK:     1       MONEY($): 100
+WEEK:     0
+======================================================================================
+LOVE + 10
+=============================================================================  
+
+You arrived at the place to meet (lover.name)
+You were able to meet (lover.name), and have a nice date
+Congratualtion!
+
+Press Enter to continue...
+
+Input: 
+Enter
+
+Output: 
+Your status
+======================================================================================
+LOVE:     60      HEALTH:   70
+MASK:     1       MONEY($): 100
+WEEK:     0
+======================================================================================
+ 
+
+1. Buy mask
+2. Go to work
+3. Love event
+4. Pause Option
+
+Input: 
+3
+
+Output: 
+Your status
+======================================================================================
+LOVE:     70      HEALTH:   70
+MASK:     1       MONEY($): 100
+WEEK:     1
+======================================================================================
+
+
+BREAKING NEWS:The virus crisis is getting worse, thousands of people get infected everyday
+John calls you out to a crowded area
+
+What will you do?
+ 1. Go out to meet her
+ 2. Have a facecall instead
+
+Enter your choice (1/2) ~>
+
+Input: 
+2
+
+Output: 
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     1
+======================================================================================
+
+HEALTH +5
+======================================================================================
+
+(lover.name) agrees to have a facecall instead 
+Press Enter to continue...
+
+Input: 
+Enter
+
+Output: 
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     1
+======================================================================================
+
+HEALTH +5
+======================================================================================
+
+(lover.name) asks 'Do you love me? How much do you love me?'
+
+How will you answer (lover.name)'s question?'
+1. I love you so much, more than this entire universe
+2. Of course, I love you. Don't doubt on my love
+
+Enter your choice (1/2) ~> 
+
+Input: 
+1
+
+Output:
+======================================================================================
+LOVE:     65      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     1
+======================================================================================
+
+LOVE -5
+======================================================================================
+
+(lover.name) says 'Hahahaha your answer is very cringy! But its not bad :)'
+Press Enter to continue...
+
+Intput: 
+Enter
+
+Output: 
+======================================================================================
+LOVE:     65      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     1
+======================================================================================
+
+(lover.name) is suddenly depressed.
+'I don't know whether this crisis will end before my birthday :('
+How will you comfort her?
+1. Don't worry, I will make you the best birthday ever, It's really going to be fun
+2. Well... too bad....
+Enter your choice (1/2) ~>
+
+Input:
+1
+
+Output: 
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     1
+======================================================================================
+
+LOVE +5
+======================================================================================
+
+(lover.name) says 'oh that's so sweet...! Thanks
+Press Enter to continue...
+
+Input: 
+Enter
+
+Output: 
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     1
+======================================================================================
+
+1. Buy mask
+2. Go to work
+3. Love event
+4. Pause Option
+
+Input: 
+4
+
+Input: 
+2
+
+Input: 
+1
+
+Output: 
+Save in Slot 1?(Y/N) ~>
+
+Input: 
+Y
+
+Output: 
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     2
+======================================================================================
+
+1. Buy mask
+2. Go to work
+3. Love event
+4. Pause Option
+
+Input: 
+3
+
+Output: 
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     2
+======================================================================================
+
+It's already (lover.name)'s B-day. You need to buy a present.
+What will you buy?"
+1. a necklace
+2. bouquet
+3. BOTH
+
+Enter your choice(1/2/3) ~>
+
+Input: 
+1
+
+Output:
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     2
+======================================================================================
+
+
+Will you either go out and buy the present or order the present(s) on online?
+1. go out and buy the present
+2. order present(s) on online
+
+Enter your choice (1/2) ~> 
+
+Input: 
+2
+
+Output: 
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     2
+===================================================================================
+
+Your present(s) will arrive before Jessy's birthday. 
+Press Enter to continue...
+
+Input: 
+Enter
+
+Ouput: 
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     2
+===================================================================================
+
+You came to (lover.name)'s house
+Will you give the present to (lover.name) ?
+1. YES
+2. DEFINITELY YES
+Enter your choice (1/2) ~>
+
+Input: 
+1
+
+Output: 
+======================================================================================
+LOVE:     70      HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     2
+======================================================================================
+
+LOVE +5
+======================================================================================
+
+Your love point is full, 
+(lover.name) says 'wow it's really nice present! Thank you'
+Press Enter to continue...
+
+Input: 
+Enter
+
+Output: 
+Your status
+======================================================================================
+LOVE:     100     HEALTH:   75
+MASK:     1       MONEY($): 100
+WEEK:     3
+======================================================================================
+
+
+Your love point is full.
+You reached to the ending!
+
+Final score
+============================================================================
+Love point :        100
+Health point :      75
+number of mask(s) : 1
+Money :             100
+Press Enter to continue...
+
+Input: 
+Enter
+Enter
+
+Output: 
+============================================================================
+♥    _                                             _      _                $
+♥   | |                                           | |    (_)               $
+♥   | |      ___ __   __ ___       ___   _ __     | |     _ __   __ ___    $
+♥   | |     / _ \\ \ / // _ \     / _ \ | '__|    | |    | |\ \ / // _ \   $
+♥   | |____| (_) |\ V /|  __/    | (_) || |       | |____| | \ V /|  __/   $
+♥   \_____/ \___/  \_/  \___|     \___/ |_|       \_____/|_|  \_/  \___|   $
+♥                                                                          $
+============================================================================
+
+1. New Game
+2. Continue
+3. Quit
+Please enter your choice ~>
+
+Input: 
+3
+
+Output: 
+Bye Bye! 
+
+
+
+
+
+
